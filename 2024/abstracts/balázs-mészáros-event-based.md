@@ -1,3 +1,10 @@
+---
+links:
+  - title: Paper
+    url: https://www.nature.com/articles/s41467-025-65394-8
+  - title: Balázs's page
+    url: https://mbalazs98.github.io
+---
 # Event-Based Learning of Synaptic Delays in Spiking Neural Networks with Exact Gradients
 
 **Authors:** Balázs Mészáros, James Knight, Thomas Nowotny
@@ -14,4 +21,5 @@ Spiking Neural Networks (SNNs) are gaining attention as energy-efficient alterna
 [2] Göltz, et al. 2024. arXiv 
 [3] Kriener, et al. 2022. Proc. Neuro-Inspired Conf. 
 [4] Cramer, et al. 2020. IEEE
+
 [5] Nowotny, et al. 2022. arXiv
